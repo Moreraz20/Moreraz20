@@ -1,9 +1,9 @@
-### Hi my name is Andrés 👋
+# Hi my name is Andrés 👋
 
-Here are some ideas to get you started:
+## About me
 
-- 🔭 I’m currently working on Universidad Distrital FJC
-- 🌱 I’m currently learning Golang
+### - 🔭 I’m currently working on Universidad Distrital FJC
+### - 🌱 I’m currently learning Golang
 
 ![Moreraz GitHub stats](https://github-readme-stats.vercel.app/api?username=Moreraz20&show_icons=true&theme=tokyonight&rank_icon=github&hide=stars,issues&show=prs_merged,prs_merged_percentage)
 
